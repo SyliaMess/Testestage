@@ -1,5 +1,5 @@
 # Testestage
-Quelques captures concernant le résultat de l'exicution 
+Quelques captures concernant le résultat de l'exécution
 
 ![Captutest1](https://user-images.githubusercontent.com/75087510/103230189-16d3b680-4935-11eb-83f3-ac8425306207.PNG)
 ![Capttest2](https://user-images.githubusercontent.com/75087510/103230206-23580f00-4935-11eb-9da5-3966dc09822b.PNG)

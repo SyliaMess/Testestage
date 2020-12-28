@@ -1,8 +1,15 @@
 # Testestage
 Quelques captures concernant le résultat de l'exicution 
 
-![Captutest1](https://user-images.githubusercontent.com/75087510/103229662-cc9e0580-4933-11eb-89eb-ff5075068d99.PNG)
-![Capttest2](https://user-images.githubusercontent.com/75087510/103229683-d9baf480-4933-11eb-8780-d1bcf8f43196.PNG)
-![capttest3](https://user-images.githubusercontent.com/75087510/103229685-da538b00-4933-11eb-9c8c-cb07d3f1a380.PNG)
-![capttest4](https://user-images.githubusercontent.com/75087510/103229687-da538b00-4933-11eb-878d-f6ef7c010334.PNG)
-![capttest5](https://user-images.githubusercontent.com/75087510/103229688-daec2180-4933-11eb-9069-29b712e72fcc.PNG)
+![Captutest1](https://user-images.githubusercontent.com/75087510/103230189-16d3b680-4935-11eb-83f3-ac8425306207.PNG)
+![Capttest2](https://user-images.githubusercontent.com/75087510/103230206-23580f00-4935-11eb-9da5-3966dc09822b.PNG)
+![capttest3](https://user-images.githubusercontent.com/75087510/103230209-23f0a580-4935-11eb-879c-a30e6acf6524.PNG)
+![capttest5](https://user-images.githubusercontent.com/75087510/103230211-2652ff80-4935-11eb-99bf-e175bcf7de74.PNG)
+![capttest6](https://user-images.githubusercontent.com/75087510/103230212-26eb9600-4935-11eb-9669-31a7bc518684.PNG)
+![capttest7](https://user-images.githubusercontent.com/75087510/103230214-27842c80-4935-11eb-84b8-0db4fdc80812.PNG)
+
+
+
+
+
+

@@ -1,10 +1,8 @@
 import requests
 import json
-# Fonction qui retourne les états de tous les terrains présents sur une réponse json donnée
 from dateutil import parser
 
-
-def etats_terrains_selon_reponse_json(reponse_json, date):
+# Fonction qui retourne les états de tous les terrains présents   sur une réponse json donnée
     liste_terrains = []
     # Récupérer la liste des terrains présents sur la réponse json
     for dictionary in reponse_json['slots']:
